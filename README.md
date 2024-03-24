@@ -1,2 +1,2 @@
 # ML for collisions
-ML code to be released through SPOCK
+Machine learning model to be added to SPOCK
