@@ -1,2 +1,2 @@
-# ML_for_collisions
+# ML for collisions
 ML code to be released through SPOCK
