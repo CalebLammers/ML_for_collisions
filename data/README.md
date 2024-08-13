@@ -1,0 +1,2 @@
+# Data
+This directory contains files that are small enough to be hosted on GitHub. Data omitted due to size restrictions can be re-generated using the original N-body simulations (available on Globus) and the scripts in this repository. Feel free to reach out if you run into issues!
