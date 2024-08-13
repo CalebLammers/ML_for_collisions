@@ -3,7 +3,7 @@ This repository contains the code used to train the models, evaluate their perfo
 
 See [SPOCK](https://github.com/dtamayo/spock) for a user-friendly API that interfaces with the collision classifier and orbital outcome regressor models.
 
-![](model_diagram.png)
+![](model_diagram.pdf)
 
 # Training dataset
 Our full dataset of 500,000+ N-body simulations is available through Globus.
