@@ -1,9 +1,9 @@
 # [Accelerating Giant Impact Simulations with Machine Learning](https://arxiv.org/abs/???)
-This repository contains the code used to train the models, evaluate their performance, and generate figures for the paper https://arxiv.org/abs/???.
+This repository contains code and supplementary material for the paper https://arxiv.org/abs/???, including scripts to train the ML models, evaluate their performance, and generate figures.
 
 See [SPOCK](https://github.com/dtamayo/spock) for a user-friendly API that interfaces with the collision classifier and orbital outcome regressor models.
 
-![](model_diagram.pdf)
+![](model_diagram.png)
 
 # Training dataset
 Our full dataset of 500,000+ N-body simulations is available through Globus.
