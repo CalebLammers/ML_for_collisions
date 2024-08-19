@@ -1,5 +1,5 @@
-# [Accelerating Giant Impact Simulations with Machine Learning](https://arxiv.org/abs/???)
-This repository contains code and supplementary material for the paper https://arxiv.org/abs/???, including scripts to train the ML models, evaluate their performance, and generate figures.
+# [Accelerating Giant Impact Simulations with Machine Learning](https://arxiv.org/abs/2408.08873)
+This repository contains code and supplementary material for the paper https://arxiv.org/abs/2408.08873, including scripts to train the ML models, evaluate their performance, and generate figures.
 
 See [SPOCK](https://github.com/dtamayo/spock) for a user-friendly API that interfaces with the collision classifier and orbital outcome regressor models.
 
