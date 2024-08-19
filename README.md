@@ -9,4 +9,4 @@ See [SPOCK](https://github.com/dtamayo/spock) for a user-friendly API that inter
 Data files that are small enough to be hosted on GitHub are included in the [data/](https://github.com/CalebLammers/ML_for_collisions/tree/main/data) folder. Data omitted due to size restrictions can be re-generated using the scripts included above. Alternatively, feel free to reach out if you'd like access to a larger data file. 
 
 # Contact
-Free free to contact me at caleb [dot] lammers [at] princeton [dot] edu if you have questions/comments.
+Contact me at caleb [dot] lammers [at] princeton [dot] edu if you have questions/comments.
